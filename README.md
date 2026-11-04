@@ -1,6 +1,6 @@
 # TinigNa
 
-**An Anonymous Mobile Course Feedback Application**
+**An Anonymous Mobile Feedback and Course Improvement Platform for Students and Instructors**
 
 > *Tinig* is the Filipino word for "voice." TinigNa lets students give honest, anonymous feedback in the middle of the semester, and lets instructors act on it while the course is still running.
 
@@ -9,9 +9,9 @@
 | **Course** | ITMSD1 – Introduction to Mobile Design and Tools (1st Sem 2026–2027) |
 | **Event** | ITMSD1 Inter-Class Mobile Hackathon (Section C & Section F) |
 | **UN SDG Track** | SDG 16: Peace, Justice and Strong Institutions |
-| **Team** | [Team ID] · [Team Name] |
-| **Members** | Orlando C. Tordill · Aira Mae B. Tabudlong · Dianne G. Salazar |
-| **Roles** | [Assign: Lead UI/UX (Leader), Lead Mobile Dev, Product & AI Specialist] |
+| **Project Title** | TinigNa: An Anonymous Mobile Feedback and Course Improvement Platform for Students and Instructors |
+| **Section / Team** | Section F · Team F-3 · MGA ANAK NG A.I |
+| **Members** | Orlando C. Tordill (Lead UI/UX, Leader) · Aira Mae B. Tabudlong (Lead Mobile Dev) · Dianne G. Salazar (Product & AI Specialist) |
 
 ## Problem
 
