@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TinigNa",
+    "slug": "tinigna",
+    "version": "0.3.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.tinigna.app" },
+    "ios": { "bundleIdentifier": "com.tinigna.app" }
+  }
+}
